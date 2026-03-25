@@ -21,5 +21,5 @@ app.use('/api', aiRoutes);
 
 // --- Server Startup ---
 app.listen(PORT, () => {
-    console.log(`MERN AI FLOW Server is running on port ${PORT}`);
+    console.log(`AI APP Server is running on port ${PORT}`);
 });
